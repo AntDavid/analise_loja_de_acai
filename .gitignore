@@ -64,3 +64,6 @@ target/
 
 # database sheets
 *.xlsx
+
+# html files
+*html
